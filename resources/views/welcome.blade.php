@@ -55,7 +55,13 @@
                             <label for="">Sellador de caja:</label>
                             <input type="text" class="form-control">
                         </div> 
-                </div>      
+                </div>   
+
+                  <br>
+
+                  <button type="submit">Enviar</button>
+
+                </div>       
 
             </form>
         </div>
@@ -67,3 +73,4 @@
 
     </body>
 </html>
+
